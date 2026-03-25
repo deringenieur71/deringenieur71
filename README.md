@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @deringenieur71
 - 👀 I’m interested in ... Z80, BASIC, PASCAL, Assembler, Vintage Computing ...
-- 🌱 I’m currently learning ... not to explode when grown up people behave like 3 year old at work
 - 💞️ I’m looking to collaborate on ... cpctelera ?
 - 📫 How to reach me ... ici !
 
